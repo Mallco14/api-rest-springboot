@@ -1,0 +1,10 @@
+JSON
+{
+    "nombre": "Iphone 15 XR",
+    "precio": 105.2,
+    "maker" :{
+        "id": 2,
+        "nombre":"Entel",
+        "productoList":null
+    }
+}
